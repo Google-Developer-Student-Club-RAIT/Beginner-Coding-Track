@@ -1,0 +1,8 @@
+Print the summation of the series:
+nC0 + nC1 +nC2 +...+nCn where C->Combination
+Input: n
+Output: Sum
+
+#Example:
+n=5
+Oupput: 32

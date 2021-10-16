@@ -1,0 +1,8 @@
+Print the summation of the series:
+1 + 2/5 + 3/7 +...
+Input: n
+Output: sum
+
+#Example:
+n=5
+Output: 2.73 (Approx.)

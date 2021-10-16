@@ -1,0 +1,8 @@
+Print the summation of the series:
+1! + 2! + 3!/2! + 4!/3! +...
+Input: n
+Output: sum
+
+#Example:
+n=5
+Output: 15

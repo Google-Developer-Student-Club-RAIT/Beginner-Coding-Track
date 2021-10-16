@@ -1,0 +1,8 @@
+Find the nth term of Geometric Progression:
+Input: A, R, N
+Output: Nth term
+
+#Example:
+Input: A=2, R=3, N=5
+Output: 162
+
