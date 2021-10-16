@@ -1,0 +1,11 @@
+#Print inverted full pyramid as shown below:
+Input: n
+Output: Pattern
+
+#Example:
+n=5
+* * * * *
+ * * * *
+  * * * 
+   * *
+    *

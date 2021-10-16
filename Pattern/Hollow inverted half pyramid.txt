@@ -1,0 +1,11 @@
+#Print the pattern as shown below:
+Input: n
+Output: pattern
+
+#Example:
+n=5
+* * * * *
+*     *
+*   *
+* *
+*
