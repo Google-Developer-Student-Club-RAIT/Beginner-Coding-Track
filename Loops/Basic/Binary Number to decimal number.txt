@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1#:~:text=Your%20task%20is%20to%20complete,of%20bits%20in%20binary%20number.
+
+Refer to the question given above.
+
+#Function:
+int binary_to_decimal(char str[])
+{
+	// Code here.
+}

@@ -1,0 +1,13 @@
+#Check whether the number is palindrome or not.
+Input: N
+Output: True or False
+
+#Example:
+Input: 121
+Output: True
+
+Input: 7667
+Output: True
+
+Input: 8628
+Output: False

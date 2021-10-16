@@ -1,0 +1,10 @@
+https://practice.geeksforgeeks.org/problems/reverse-digit0316/1
+
+Refer to the question given above.
+
+#Function:
+
+long long int reverse_digit(long long int n)
+{
+    // Code here
+}

@@ -1,0 +1,9 @@
+https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+
+Refer to the question given above.
+
+#Function:
+int gcd(int A, int B) 
+{ 
+    // code here   
+} 
