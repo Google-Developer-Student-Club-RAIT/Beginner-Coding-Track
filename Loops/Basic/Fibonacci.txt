@@ -5,3 +5,26 @@ Output: Series
 #Example:
 n=8
 0 1 1 2 3 5 8 13
+
+code :
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  int n, i, a=0, b=1, c;
+
+  cout << "Enter the number of terms: ";
+  cin >> n;
+
+  cout << "Fibonacci Series is: " << endl;
+  for (i=a; i<n; i++)
+  {
+    cout << a << "  ";
+    c=a+b;
+    a=b;
+    b=c;
+  }
+
+  return 0;
+}
