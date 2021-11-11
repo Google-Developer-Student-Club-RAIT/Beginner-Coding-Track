@@ -9,7 +9,7 @@ n=8
 Contribution by Zaid Parker:-
 Time Complexity = O(n)
 Space Complexity = O(1)
-Code =
+Code:
 
 #include<iostream>
 using namespace std;
