@@ -12,6 +12,9 @@ Output: True
 Input: 167
 Oupput: False
 
+Contribution by Zaid Parker:-
+Time Complexity = O(logN (base 10))
+Space Complexity = O(1)
 CODE :
 
 #include<iostream>
