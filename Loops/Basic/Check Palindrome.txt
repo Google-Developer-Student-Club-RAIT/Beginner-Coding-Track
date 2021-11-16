@@ -11,3 +11,32 @@ Output: True
 
 Input: 8628
 Output: False
+
+code :
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  int num,a,b,s=0;
+
+  cout<<"Enter number : ";
+  cin>>num;
+
+  a=num;
+  
+while(num>0)
+{
+ b=num%10;
+ s=(s*10)+b;
+ num=num/10;
+}
+
+ if(a==s)
+ cout<<"True";
+ else cout<<"False";
+
+return 0;
+
+}
