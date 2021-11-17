@@ -108,6 +108,6 @@ You can directly contact us, by tagging us on discussions or comments too.
 
 ## LICENSE
 
-Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
+Copyright (c) **GDSC RAIT**. All rights reserved. Licensed under the MIT License
 
 [![](https://img.shields.io/github/license/junaidrahim/desiresalesportal?style=for-the-badge)](LICENSE)
