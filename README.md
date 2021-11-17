@@ -6,12 +6,12 @@
 
 
 ## Information 
----
+
 This is a collection of different beginner friendly questions for praticing DSA. If you are interested in contributing then please follow code-Style and Contribution steps.
 
 
 ## Steps to Contribute
----
+
 1. Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/Beginner-Coding-Track) repository.
 
 1. Clone your forked copy of the project.
@@ -97,7 +97,7 @@ This is a collection of different beginner friendly questions for praticing DSA.
 
 
 ## Contact
----
+
 Maintainer : nishthag446@gmail.com 
 
 Maintainer : satyamaggrawalread@gmail.com
@@ -105,7 +105,7 @@ Maintainer : satyamaggrawalread@gmail.com
 You can directly contact us, by tagging us on discussions or comments too.
 
 ## LICENSE
----
+
 Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
 
 [![](https://img.shields.io/github/license/junaidrahim/desiresalesportal?style=for-the-badge)](LICENSE)
