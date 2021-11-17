@@ -102,7 +102,7 @@ This is a collection of different beginner friendly questions for praticing DSA.
 
 Maintainer : nishthag446@gmail.com 
 
-Maintainer : satyamaggrawalread@gmail.com
+Maintainer : satyamagrawalread@gmail.com
 
 You can directly contact us, by tagging us on discussions or comments too.
 
