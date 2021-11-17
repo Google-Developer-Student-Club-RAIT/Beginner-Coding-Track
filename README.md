@@ -12,6 +12,8 @@ This is a collection of different beginner friendly questions for praticing DSA.
 
 ## Steps to Contribute
 
+1. Star [this](https://github.com/Google-Developer-Student-Club-RAIT/Beginner-Coding-Track) repository.
+
 1. Fork [this](https://github.com/Google-Developer-Student-Club-RAIT/Beginner-Coding-Track) repository.
 
 1. Clone your forked copy of the project.
