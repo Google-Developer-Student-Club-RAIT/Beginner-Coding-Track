@@ -4,7 +4,29 @@ Refer to the question given above.
 
 #Function:
 
-long long int reverse_digit(long long int n)
-{
-    // Code here
+Contribution by Zaid Parkar:-
+
+Time Complexity: O(Log(N))
+Space Complexity: O(1)
+
+code :
+
+#include <iostream>
+using namespace std;
+
+int main()
+{	
+    long long int n;
+    int a;
+
+      cout<<"enter number"<<endl;   //get input form user
+      cin>>n;
+		
+	while(n>0)
+	 {
+	  a=n%10;       //find remainder
+	  cout<<a;     //will display remainder
+	  n=n/10;      
+	 }	    
+					
 }
