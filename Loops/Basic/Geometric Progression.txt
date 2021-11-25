@@ -6,3 +6,28 @@ Output: Nth term
 Input: A=2, R=3, N=5
 Output: 162
 
+
+Contribution by Zaid Parkar:-
+Code:-
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+ int a,r,n,x,s,y=1,z=0;
+
+  cout<<"Enter a,r and n "<<endl;
+  cin>>a>>r>>n;      //Input data
+
+  z=n-1;
+for(int i=1;i<=z;i++)   //to calculate (r)^n
+{
+  x=y*r;
+  y=x;
+}
+
+  s=x*a;    //Formula
+ cout <<s; 
+  
+}
