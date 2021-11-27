@@ -6,3 +6,25 @@ Output: Sum
 #Example:
 n=5
 Oupput: 32
+
+
+Contribution by Zaid Parkar:-
+code:-
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int s=1,n,i;
+
+cout<<"Enter n "<<endl;
+cin>>n;                    //Input
+
+for (i=1;i<=n;i++)        
+{
+  s=2*s;                   //calculate summation
+}
+ cout <<s; 
+}
+
