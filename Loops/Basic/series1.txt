@@ -6,3 +6,27 @@ Output: sum
 #Example:
 n=5
 Output: 2.06 (Approx.)
+
+contribution by :- Zaid Parkar
+Code:-
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  double i,s=0,n,a;
+
+  cout<<"Enter n "<<endl;
+  cin>>n;          //Input
+
+for (i=1;i<=n;i++)
+{
+ s=i/(2*i+1);   //Calulate summation
+ a=s+a;
+ }
+cout<<a<<endl; //Output
+
+return 0;
+}
+
