@@ -7,3 +7,34 @@ int binary_to_decimal(char str[])
 {
 	// Code here.
 }
+
+Contribution by :-Zaid Parkar
+Expected Time Complexity: O(K * Log(K)) where K is number of bits in binary number.
+Expected Space Complexity: O(1)
+Code:-
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+int convert(long long);
+
+int main() {
+  long long n;
+  cout << "Enter a binary number: "; 
+  cin >> n;  //Input
+  cout << convert(n);   //Output
+  return 0;
+}
+int convert(long long n) 
+{
+  int d=0, i=0, r;    //conversion
+  while (n!=0)
+   {
+    r = n % 10;
+    n = n/10;
+    d = d + r*pow(2, i);
+    i++;  
+  }
+  return d;
+}
+
