@@ -6,3 +6,24 @@ Output: sum
 #Example:
 n=5
 Output: 15
+
+Contribution by Zaid Parkar:-
+code:-
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int s=0,n,i;
+
+cout<<"Enter n "<<endl;
+cin>>n;                //input
+
+for (i=1;i<=n;i++)  //calculate summation
+{
+  s=i+s;
+}
+cout <<s;           //output
+  
+}
