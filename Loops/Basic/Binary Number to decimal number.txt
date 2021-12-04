@@ -2,8 +2,37 @@ https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/
 
 Refer to the question given above.
 
+
+
 #Function:
 int binary_to_decimal(char str[])
 {
-	// Code here.
+    //code here
 }
+
+Contribution by Zaid Parkar:-
+Time Complexity: O(N*log(base2)N)
+Space Comlexity: O(1)
+int binary_to_decimal(char str[])
+{
+	int binary_to_decimal(string str)
+	{
+	    // Code here.
+	    int n=str.size();
+	  int num=0,i=0;
+
+	     while(i<str.size())
+	    {
+		if(str[i]=='1')
+		{
+		    num+=pow(2,(n-1));
+		}
+		i++;
+		n--;
+	    }
+	    return num;
+	}
+}
+
+// Please add more contributions below-
+
