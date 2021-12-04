@@ -15,7 +15,7 @@ using namespace std;
 
 int main()
 {
-  double i,s=0,n,a;
+  double i,s=0,n,a=0;
 
   cout<<"Enter n "<<endl;
   cin>>n;          //Input
