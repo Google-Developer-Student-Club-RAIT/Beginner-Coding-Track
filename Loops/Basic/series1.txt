@@ -8,6 +8,8 @@ n=5
 Output: 2.06 (Approx.)
 
 contribution by :- Zaid Parkar
+Time Complexity: O(n)
+Space Complexity: O(1)
 Code:-
 
 #include <iostream>
