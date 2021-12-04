@@ -8,6 +8,8 @@ Output: 162
 
 
 Contribution by Zaid Parkar:-
+Time Complexity: O(n)
+Space Complexity: O(1)
 Code:-
 
 #include <iostream>
@@ -31,3 +33,6 @@ for(int i=1;i<=z;i++)   //to calculate (r)^n
  cout <<s; 
   
 }
+
+//Please add more contributions below:
+
