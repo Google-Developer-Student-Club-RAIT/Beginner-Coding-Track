@@ -8,3 +8,18 @@ long long int reverse_digit(long long int n)
 {
     // Code here
 }
+Contribution by Zaid Parkar:-
+Time Complexity: O(Log(N))
+Space Complexity: O(1)
+
+long long int reverse_digit(long long int n)
+{
+long long int r=0;
+while(n>0){
+long long int a=n%10;
+r=r*10+a;
+n=n/10;
+}
+return r;
+}
+
