@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+﻿https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 
 Refer to the question given above.
 
@@ -7,3 +7,21 @@ int gcd(int A, int B)
 { 
     // code here   
 } 
+
+Contribution by Zaid Parkar:-
+Time Complexity: O(log(min(A, B)))
+ Space Complexity: O(1)
+
+code:
+int gcd(int A, int B) 
+{
+  while(A != B)  //Condition to find GCD
+  {             
+    if(A > B)
+      A=A-B;
+    else
+      B=B-A;
+  }
+  return A;  //Output      
+}
+	 
