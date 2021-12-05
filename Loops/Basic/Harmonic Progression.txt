@@ -5,3 +5,24 @@ Output: Nth term
 #Example:
 Input: A=2, D=4, N=5
 Output: 0.055 (Approx)
+
+Contribution by Zaid Parkar:-
+Time Complexity: O(n Log n).
+
+
+code :
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+ double  a,d,n,s;
+
+  cout<<"Enter a,d and n "<<endl;
+  cin>>a>>d>>n;     //Input data
+
+  s=1/(a+(n-1)*d);  //Formula
+
+  cout <<s; 
+}
